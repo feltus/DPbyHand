@@ -33,11 +33,10 @@ d.	Record the final score of the optimal alignment.
 *These numbers reflect a substitution (scoring) matrix like PAM/BLOSUM.  It’s simpler to state scores since it doesn’t matter which nucleotides are substituted.  The matrix, however, would look like this…
 
 ||A|T|G|C|
-
-|A|2|-1|-1|-1
-|T|-1|2|-1|-1
-|G|-1|-1|2|-1
-|C|-1|-1|-1|2
+|A|2|-1|-1|-1|
+|T|-1|2|-1|-1|
+|G|-1|-1|2|-1|
+|C|-1|-1|-1|2|
 
 
 ###  Task B: 
