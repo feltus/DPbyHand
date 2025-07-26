@@ -32,11 +32,12 @@ d.	Record the final score of the optimal alignment.
 
 *These numbers reflect a substitution (scoring) matrix like PAM/BLOSUM.  It’s simpler to state scores since it doesn’t matter which nucleotides are substituted.  The matrix, however, would look like this…
 
-|A|T|G|C
-A|2|-1|-1|-1
-T|-1|2|-1|-1
-G|-1|-1|2|-1
-C|-1|-1|-1|2
+||A|T|G|C|
+
+|A|2|-1|-1|-1
+|T|-1|2|-1|-1
+|G|-1|-1|2|-1
+|C|-1|-1|-1|2
 
 
 ###  Task B: 
@@ -45,7 +46,9 @@ Using the dynamic programming algorithm, locally align these two PEPTIDE sequenc
 	QSTFAQEWDS (sequence i)
 	WSTFAQETS (sequence j)
 
-The scoring system is: (BLOSUM80† with gap penalty = -6). Please do the following: 
+The scoring system is: (BLOSUM80 with gap penalty = -6; Here is the BLOSUM80 matrix: https://www.cbcb.umd.edu/confcour/CMSC423-materials/BLOSUM80.txt). 
+
+Please do the following: 
 
 a.	On a piece of paper, complete the scoring matrix. Note trace-back arrows.
 b.	Outline the trace-back route(s).
