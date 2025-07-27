@@ -1,4 +1,4 @@
-# Computational Practice: Align two sequences with dynamic programming
+# Manual Assignment: Align two sequences with dynamic programming
 ##  Lab Overview
 Pairwise sequence alignment means the alignment of two nucleic acid or two protein sequences. 
 (Note: multiple sequence alignment (MSA) = 3+ sequences)
@@ -59,3 +59,5 @@ b.	Outline the trace-back route(s).
 c.	Write down the resulting optimal LOCAL (Smith-Waterman) alignment. 
 d.	Record the final score of the optimal alignment.
 
+###  Task C: 
+In Canvas, turn in a PDF with Task A and TAsk B alignemts taht include (A) the scoring matrix done by hand with scores and trace-back arrows clearly visible, and (A) the sequence alignment with alignment score.
