@@ -1,4 +1,4 @@
-# Manual Assignment: Align two sequences with dynamic programming
+# Manual Assignment (MA2): Align two sequences with dynamic programming
 ##  Lab Overview
 Pairwise sequence alignment means the alignment of two nucleic acid or two protein sequences. 
 (Note: multiple sequence alignment (MSA) = 3+ sequences)
