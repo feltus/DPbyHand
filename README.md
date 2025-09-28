@@ -60,4 +60,4 @@ c.	Write down the resulting optimal LOCAL (Smith-Waterman) alignment.
 d.	Record the final score of the optimal alignment.
 
 ###  Task C: 
-In Canvas, turn in a PDF with Task A and TAsk B alignmets that include (A) the scoring matrix done by hand with scores and trace-back arrows clearly visible, and (A) the sequence alignment with alignment score.
+In Canvas, turn in a single PDF with Task A and TAsk B alignmens that include (A) the scoring matrix done by hand with scores and trace-back arrows clearly visible, and (B) the sequence alignment with alignment score.
