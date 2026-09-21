@@ -19,7 +19,7 @@ Follow these lab instructions:
 Using the dynamic programming algorithm, globally align these two DNA sequences:
 
 ```
-GGCAACTTCACAT (sequence i) 
+GACAACTTCACAT (sequence i) 
 
 GGCAACTTCAGCAT (sequence j) 
 ```
@@ -46,7 +46,7 @@ d.	Record the final score of the optimal alignment.
 ###  Task B: 
 Using the dynamic programming algorithm, locally align these two PEPTIDE sequences:
  ```
-QSTFAQEWDS (sequence i)
+WSTFAQEWDS (sequence i)
 
 WSTFAQETS (sequence j)
 ```
